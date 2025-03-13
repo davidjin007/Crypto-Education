@@ -38,7 +38,7 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             display: inline-block;
-            width: 250px;  /* 增加宽度避免文字换行 */
+            width: 300px;  /* 增加宽度避免文字换行 */
         }
         .nav-links a {
             display: block;
